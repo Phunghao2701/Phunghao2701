@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Hello%2C%20cuong--sadboi-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
+  <img src="https://img.shields.io/badge/Hello%2C%20Phunghao2701-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
 
   <h1>🌌 Welcome to my universe!</h1>
   <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
@@ -24,10 +24,10 @@
 
 ### 📧 Connect with Me
 <div align="center">
-  <a href="https://github.com/cuong-sadboi">
+  <a href="https://github.com/Phunghao2701">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:cuong15122004@gmail.com">
+  <a href="mailto:phunghao2701@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-nguy%E1%BB%85n-ti%E1%BA%BFn-ab7569362/">
@@ -87,7 +87,7 @@
 
 ### 📊 GitHub Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cuong-sadboi&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phunghao&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ---
@@ -97,33 +97,30 @@
 <div align="center">
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=cuong-sadboi&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=phunghao&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true" />
   </a>
   
   <br>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cuong-sadboi&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phunghao&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuong-sadboi&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phunghao&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
   </a>
 
   <br>
 
 <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-  <img src="https://streak-stats.demolab.com?user=cuong-sadboi&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" />
+  <img src="https://streak-stats.demolab.com?user=phunghao&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" />
 </a>
 
 </div>
 
 ---
 
-### 🐍 Fun Fact: Commit Snake
-<div align="center">
-  <img src="https://github.com/cuong-sadboi/cuong-sadboi/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>

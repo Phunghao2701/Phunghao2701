@@ -1,26 +1,28 @@
-## Hi there 👋
+Header
+🌌 Welcome to my universe!
+Full-Stack Developer | Tech Enthusiast | Open to Collaboration
 
-<!--
-**Phunghao2701/Phunghao2701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profile Views
 
-Here are some ideas to get you started:
+💻 About Me
+🎯 Current Focus: Crafting applications with .NET Core, Python, and React.
+📚 Learning Next: Mastering Cloud Solutions (AWS/GCP) and DevOps.
+🤝 Collaborations: Open to discussions on AI/ML, Web3, and Blockchain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hi! 👋
-Banner about Arturs Smirnovs
+📧 Connect with Me
+GitHub Gmail LinkedIn
 
-I'm Arturs and i'm full stack web / app developer with more then 10 years experience. I have been working in various fields, starting from crypto currency, finances and ending with human resources. I have always been hard working and goal's focused with proven results.
+🚀 Tech Universe
+                         
+🔧 My Stack & Tools
 
-TECH STACK
-PHP / MYSQL / SOLR / FLUTTER / DART / JS / NODE JS / JQUERY / HTML / CSS / SCSS / LESS / BOOSTRAP / LARAVEL / YII2 / CODIGNITER / UNIX / GITHUB / SVN / APACHE / NGINX / REST API / NATIVE SCRIPT / AZURE / GOOGLE API's
 
-MOTTO
-When your work speaks for itself, don't interrupt. - Henry J. Kaiser
+  
+📊 GitHub Activity Graph
+
+📈 GitHub Analytics & Streak
+
+ 
+
+🐍 Fun Fact: Commit Snake
+snake animation
